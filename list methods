@@ -1,0 +1,4 @@
+values =input("38,56,47,38,87")
+list =values.split(",")
+print('List':,list)
+print('Tuple:',tuple)
